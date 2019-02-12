@@ -7,25 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E280D1822122A50008F2D26 /* DSTEntryListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E280D1722122A50008F2D26 /* DSTEntryListTableViewController.m */; };
+		2E280D1B22122F23008F2D26 /* EntryDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E280D1A22122F23008F2D26 /* EntryDetailViewController.m */; };
 		2ED6A1BA221210D1005CB5C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ED6A1B9221210D1005CB5C7 /* AppDelegate.m */; };
-		2ED6A1BD221210D1005CB5C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ED6A1BC221210D1005CB5C7 /* ViewController.m */; };
 		2ED6A1C0221210D1005CB5C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2ED6A1BE221210D1005CB5C7 /* Main.storyboard */; };
 		2ED6A1C2221210D1005CB5C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ED6A1C1221210D1005CB5C7 /* Assets.xcassets */; };
 		2ED6A1C5221210D1005CB5C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2ED6A1C3221210D1005CB5C7 /* LaunchScreen.storyboard */; };
 		2ED6A1C8221210D1005CB5C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ED6A1C7221210D1005CB5C7 /* main.m */; };
+		2ED6A1D6221211A4005CB5C7 /* DSTEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ED6A1D5221211A4005CB5C7 /* DSTEntry.m */; };
+		2EFD2A7222121A1E007FC5EF /* DSTEntryController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EFD2A7122121A1E007FC5EF /* DSTEntryController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E280D1622122A50008F2D26 /* DSTEntryListTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSTEntryListTableViewController.h; sourceTree = "<group>"; };
+		2E280D1722122A50008F2D26 /* DSTEntryListTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DSTEntryListTableViewController.m; sourceTree = "<group>"; };
+		2E280D1922122F23008F2D26 /* EntryDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EntryDetailViewController.h; sourceTree = "<group>"; };
+		2E280D1A22122F23008F2D26 /* EntryDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EntryDetailViewController.m; sourceTree = "<group>"; };
 		2ED6A1B5221210D1005CB5C7 /* Journal OBJ-C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Journal OBJ-C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED6A1B8221210D1005CB5C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2ED6A1B9221210D1005CB5C7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		2ED6A1BB221210D1005CB5C7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		2ED6A1BC221210D1005CB5C7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		2ED6A1BF221210D1005CB5C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2ED6A1C1221210D1005CB5C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2ED6A1C4221210D1005CB5C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2ED6A1C6221210D1005CB5C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2ED6A1C7221210D1005CB5C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2ED6A1D4221211A4005CB5C7 /* DSTEntry.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSTEntry.h; sourceTree = "<group>"; };
+		2ED6A1D5221211A4005CB5C7 /* DSTEntry.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DSTEntry.m; sourceTree = "<group>"; };
+		2EFD2A7022121A1E007FC5EF /* DSTEntryController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSTEntryController.h; sourceTree = "<group>"; };
+		2EFD2A7122121A1E007FC5EF /* DSTEntryController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DSTEntryController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,17 +67,79 @@
 		2ED6A1B7221210D1005CB5C7 /* Journal OBJ-C */ = {
 			isa = PBXGroup;
 			children = (
-				2ED6A1B8221210D1005CB5C7 /* AppDelegate.h */,
-				2ED6A1B9221210D1005CB5C7 /* AppDelegate.m */,
-				2ED6A1BB221210D1005CB5C7 /* ViewController.h */,
-				2ED6A1BC221210D1005CB5C7 /* ViewController.m */,
-				2ED6A1BE221210D1005CB5C7 /* Main.storyboard */,
+				2ED6A1D222121106005CB5C7 /* Controllers */,
+				2ED6A1CF221210F0005CB5C7 /* Model */,
+				2ED6A1D32212111B005CB5C7 /* App Delegate Files */,
+				2EFD2A73221229F9007FC5EF /* Storyboard */,
+				2ED6A1CE221210E0005CB5C7 /* Resources */,
+			);
+			path = "Journal OBJ-C";
+			sourceTree = "<group>";
+		};
+		2ED6A1CE221210E0005CB5C7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				2ED6A1C1221210D1005CB5C7 /* Assets.xcassets */,
 				2ED6A1C3221210D1005CB5C7 /* LaunchScreen.storyboard */,
 				2ED6A1C6221210D1005CB5C7 /* Info.plist */,
 				2ED6A1C7221210D1005CB5C7 /* main.m */,
 			);
-			path = "Journal OBJ-C";
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2ED6A1CF221210F0005CB5C7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2ED6A1D4221211A4005CB5C7 /* DSTEntry.h */,
+				2ED6A1D5221211A4005CB5C7 /* DSTEntry.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2ED6A1D0221210F5005CB5C7 /* Model Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2EFD2A7022121A1E007FC5EF /* DSTEntryController.h */,
+				2EFD2A7122121A1E007FC5EF /* DSTEntryController.m */,
+			);
+			path = "Model Controller";
+			sourceTree = "<group>";
+		};
+		2ED6A1D1221210FF005CB5C7 /* View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2E280D1622122A50008F2D26 /* DSTEntryListTableViewController.h */,
+				2E280D1722122A50008F2D26 /* DSTEntryListTableViewController.m */,
+				2E280D1922122F23008F2D26 /* EntryDetailViewController.h */,
+				2E280D1A22122F23008F2D26 /* EntryDetailViewController.m */,
+			);
+			path = "View Controller";
+			sourceTree = "<group>";
+		};
+		2ED6A1D222121106005CB5C7 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2ED6A1D1221210FF005CB5C7 /* View Controller */,
+				2ED6A1D0221210F5005CB5C7 /* Model Controller */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		2ED6A1D32212111B005CB5C7 /* App Delegate Files */ = {
+			isa = PBXGroup;
+			children = (
+				2ED6A1B8221210D1005CB5C7 /* AppDelegate.h */,
+				2ED6A1B9221210D1005CB5C7 /* AppDelegate.m */,
+			);
+			path = "App Delegate Files";
+			sourceTree = "<group>";
+		};
+		2EFD2A73221229F9007FC5EF /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				2ED6A1BE221210D1005CB5C7 /* Main.storyboard */,
+			);
+			path = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,9 +212,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2ED6A1BD221210D1005CB5C7 /* ViewController.m in Sources */,
+				2E280D1B22122F23008F2D26 /* EntryDetailViewController.m in Sources */,
 				2ED6A1C8221210D1005CB5C7 /* main.m in Sources */,
+				2EFD2A7222121A1E007FC5EF /* DSTEntryController.m in Sources */,
+				2ED6A1D6221211A4005CB5C7 /* DSTEntry.m in Sources */,
 				2ED6A1BA221210D1005CB5C7 /* AppDelegate.m in Sources */,
+				2E280D1822122A50008F2D26 /* DSTEntryListTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,7 +361,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9DGMQB3935;
-				INFOPLIST_FILE = "Journal OBJ-C/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Journal OBJ-C/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,7 +378,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9DGMQB3935;
-				INFOPLIST_FILE = "Journal OBJ-C/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Journal OBJ-C/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
